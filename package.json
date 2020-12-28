@@ -1,0 +1,15 @@
+{
+  "name": "github-dark-theme-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Based on the Github Dark Theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/gabtorre/github-dark-theme-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
